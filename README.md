@@ -58,7 +58,6 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mostafaraihan&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaraihan&layout=compact&theme=radical" height="165" />
   <img src="https://streak-stats.demolab.com?user=mostafaraihan&theme=radical&hide_border=true" height="165" />
 </p>
 
