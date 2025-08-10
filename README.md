@@ -4,7 +4,7 @@
 </p>
 
 <!-- Intro -->
-<h3 align="center">👋 Hey there! I'm <b>Mostafa Raihan</b></h3>
+<h3 align="center">👋 Hey there! I'm <b>@MostafaRaihan</b></h3>
 <p align="center">
   🚀 Full Stack Web Developer • Python & Django Enthusiast  
 </p>
