@@ -3,7 +3,7 @@
 </p>
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:ff00d5&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff" />
+  <img src="https://your-image-url.com/your-banner.jpg" alt="Cover Image" width="100%" />
 </p>
 
 <!-- Intro -->
