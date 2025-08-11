@@ -6,16 +6,17 @@
 <!-- Intro -->
 <h3 align="center">👋 Hey there! I'm <b>Mostafa Raihan</b></h3>
 <p align="center">
-  🚀 Full Stack Web Developer • Python & Django Enthusiast  
+  Creating Next-Generation Web Applications 
 </p>
 
 ---
 
 ## 🖥 About Me  
 - 💻 Passionate **Full Stack Developer** specializing in **Python & Django**  
-- 🚀 Building modern, scalable, and responsive web applications  
-- 📍 Based in Bangladesh  
+- 🚀 Building modern, scalable, and responsive web applications   
 - 🎯 Focused on creating projects that solve real-world problems  
+- 📚 Skilled in **HTML**, **CSS**, **JavaScript**, **Python**, **Django**, **REST API**  
+- 💡 Interested in **Frontend + Backend** integration for seamless UX  
 
 ---
 
@@ -43,8 +44,15 @@
 ---
 
 ## 📂 Featured Projects  
-- **[Portfolio Website](https://mostafaraihan.netlify.app)** – Modern portfolio showcasing projects & skills  
-- **[Clone Application](https://raihanfrontendmentor.netlify.app)** – Frontend Mentor Website Clone
+### 🌐 [Portfolio Website](https://mostafaraihan.netlify.app)  
+A modern, fully responsive personal portfolio showcasing my projects, skills, and contact information.  
+*Tech:* HTML, CSS, JavaScript, Bootstrap  
+
+### 📰 [Clone Project](https://raihanfrontendmentor.netlify.app/)  
+A responsive frontend clone of a website from **Frontend Mentor**, designed to improve UI/UX skills and pixel-perfect design implementation.  
+*Tech:* HTML, CSS, JavaScript  
+
+
 
 ---
 
@@ -74,11 +82,10 @@
   <a href="https://mostafaraihan.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-    <a href="https://www.linkedin.com/in/mostafaraihanbd" target="_blank">
+  <a href="https://www.linkedin.com/in/mostafaraihanbd" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
