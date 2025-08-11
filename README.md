@@ -3,7 +3,7 @@
 </p>
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://your-image-url.com/your-banner.jpg" alt="Cover Image" width="100%" />
+  <img src="https://github.com/MostafaRaihan/MostafaRaihan/blob/main/githubcover.png?raw=true" alt="Cover Banner" width="100%" />
 </p>
 
 <!-- Intro -->
