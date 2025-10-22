@@ -127,8 +127,9 @@ A responsive frontend clone of a website from **Frontend Mentor**, designed to i
   </a>
 </p>
 
-<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/a5298ae1-19d9-4b50-a578-5498abd6811b" />
----
+<p align="center">
+  <img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/a5298ae1-19d9-4b50-a578-5498abd6811b" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:ff00d5&height=120&section=footer" />
