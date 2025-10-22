@@ -1,3 +1,5 @@
+<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/a5298ae1-19d9-4b50-a578-5498abd6811b" />
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mostafaraihan&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views" />
 </p>
