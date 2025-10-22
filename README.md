@@ -128,7 +128,7 @@ A responsive frontend clone of a website from **Frontend Mentor**, designed to i
 </p>
 
 <p align="center">
-  <img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/a5298ae1-19d9-4b50-a578-5498abd6811b" />
+  <img src="https://github.com/MostafaRaihan/MostafaRaihan/blob/main/myprofile.png" alt="Mostafa Raihan"/>
 </p>
 
 <p align="center">
