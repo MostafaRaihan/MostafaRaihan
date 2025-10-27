@@ -73,6 +73,7 @@
 **Type:** Personal Portfolio  
 **Purpose:** Showcase my full-stack projects, skills, and professional profile.  
 **Tech Stack:** HTML, CSS, JavaScript, 
+
 **Features:**  
 - Responsive design optimized for desktop and mobile  
 - Dynamic project cards with live links  
@@ -86,6 +87,7 @@
 **Type:** Frontend Practice Project  
 **Purpose:** Pixel-perfect clone of a Frontend Mentor challenge to practice UI/UX  
 **Tech Stack:** HTML, CSS, JavaScript,
+
 **Features:**  
 - Fully responsive and interactive layout  
 - Accurate reproduction of design elements  
