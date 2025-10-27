@@ -91,7 +91,7 @@
 **Features:**  
 - Fully responsive and interactive layout  
 - Accurate reproduction of design elements  
-- Focused on practicing CSS Grid, Flexbox, and React components  
+- Focused on practicing CSS Grid, Flexbox,  
 **Links:** [💻 Code](https://github.com/MostafaRaihan/FrontendMentor) | [🌐 Live Demo](https://raihanfrontendmentor.netlify.app/)
 
 ---
