@@ -1,140 +1,115 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mostafaraihan&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views" />
 </p>
-<!-- Profile Banner -->
+
 <p align="center">
   <img src="https://github.com/MostafaRaihan/MostafaRaihan/blob/main/GitHubNEw.png?raw=true" alt="Cover Banner" width="100%" />
 </p>
 
-<!-- Intro -->
 <h3 align="center">👋 Hey there! I'm <b>Mostafa Raihan</b></h3>
 <p align="center">
-  🚀 Building Next-Gen Web Experiences | Full Stack Web Developer
+  🚀 Full-Stack Web Developer | Python/Django Backend + React.js/Next.js Frontend
 </p>
 
 <p align="center">
   <a href="https://www.facebook.com/mostafaraihanbd" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&animation=pop" />
   </a>
   <a href="https://mostafaraihan.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white&animation=pop" />
   </a>
   <a href="https://www.linkedin.com/in/mostafaraihanbd" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pop" />
   </a>
-</p>
-
-
----
-
-## 🖥 About Me  
-- 💻 Passionate **Full Stack Developer** specializing in **Python & Django**  
-- 🚀 Building modern, scalable, and responsive web applications   
-- 🎯 Focused on creating **secure**, **high-performance**, and **user-friendly** projects  
-- 📚 Skilled in **HTML**, **CSS**, **JavaScript**, **Python**, **Django**, **REST API**  
-- 💡 Interested in **Frontend + Backend** integration for seamless UX  
-- 🌱 Continuously learning **React.js**, **Cloud Deployment**, and **DevOps basics**  
-
----
-
-## 🛠 Tech Stack  
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-
----
-
-## 🧰 Tools I Use  
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC9?style=for-the-badge&logo=netbeans&logoColor=white" alt="NetBeans" />
-  <img src="https://img.shields.io/badge/WAMP-FF5733?style=for-the-badge&logo=apache&logoColor=white" alt="WAMP" />
-  <img src="https://img.shields.io/badge/XAMPP-F0DB4F?style=for-the-badge&logo=mysql&logoColor=black" alt="XAMPP" />
-</p>
-
----
-
-## 🎨 Skills & Proficiency
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-95%25-brightgreen?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-90%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-50%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-70%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-00%25-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-00%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-70%25-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-25%25-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-80%25-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
----
-
-## 📂 Featured Projects  
-### 🌐 Portfolio Website  
-A modern, fully responsive personal portfolio showcasing my projects, skills, and contact information.  
-*Tech:* HTML, CSS, JavaScript, Bootstrap  
-[🔗 Live Demo](https://mostafaraihan.netlify.app) | [💻 Source Code](https://github.com/MostafaRaihan/MostafaRaihan.netlify)
-
-### 📰 Clone Project  
-A responsive frontend clone of a website from **Frontend Mentor**, designed to improve UI/UX skills and pixel-perfect design implementation.  
-*Tech:* HTML, CSS, JavaScript  
-[🔗 Live Demo](https://raihanfrontendmentor.netlify.app/) | [💻 Source Code](https://github.com/MostafaRaihan/FrontendMentor)
-
----
-
-## ⚡ Current Focus & Learning  
-- 🔭 Working on: **Advanced Django Blog**, **Interactive Portfolio**  
-- 🌱 Learning: **React.js**, **REST API with Django**  
-- 🤝 Open to collaborations on Python/Django projects  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafaraihan&show_icons=true&theme=radical" height="165" />
-  <img src="https://streak-stats.demolab.com?user=mostafaraihan&theme=radical&hide_border=true" height="165" />
-</p>
-
----
-## 📫 Connect with Me  
-<p align="center">
   <a href="mailto:mostafraihan.bd@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/mostafaraihanbd" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://mostafaraihan.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mostafaraihanbd" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=pop" />
   </a>
 </p>
 
+---
+
+## 🖥 About Me
+- 💻 Full-Stack Web Developer using **Python/Django** for backend & **React.js/Next.js** for frontend  
+- 🔹 Building modern, responsive, and secure web applications  
+- 📚 Databases: **PostgreSQL, MySQL**  
+- ⚡ Deployment & DevOps: **Vercel, Netlify**  
+- 🛠 Tools: **Git, GitHub, VSCode, Figma**  
+- 🌱 Learning: **GraphQL, Serverless, Advanced REST APIs**  
+
+> 💬 Fun Fact: I love exploring new tech stacks and turning ideas into reality! 🚀
+
+---
+
+## 🚀 My Tech Stack
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50" /><br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50" /><br>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50" /><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" /><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="50" /><br>Next.js</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" /><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="50" /><br>Django</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="50" /><br>PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50" /><br>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50" /><br>Docker</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="50" /><br>Vercel</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="50" /><br>Netlify</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50" /><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50" /><br>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50" /><br>VSCode</td>
+  </tr>
+</table>
+
+---
+
+## 📂 Featured Projects
+
+### 🌐 [Portfolio Website](https://mostafaraihan.netlify.app)  
+**Type:** Personal Portfolio  
+**Purpose:** Showcase my full-stack projects, skills, and professional profile.  
+**Tech Stack:** HTML, CSS, JavaScript, 
+**Features:**  
+- Responsive design optimized for desktop and mobile  
+- Dynamic project cards with live links  
+- Smooth animations and interactive UI  
+**Links:** [💻 Code](https://github.com/MostafaRaihan/MostafaRaihan.netlify) | [🌐 Live Demo](https://mostafaraihan.netlify.app)
+
+---
+
+
+### 📰 [Frontend Mentor Clone](https://raihanfrontendmentor.netlify.app/)  
+**Type:** Frontend Practice Project  
+**Purpose:** Pixel-perfect clone of a Frontend Mentor challenge to practice UI/UX  
+**Tech Stack:** HTML, CSS, JavaScript,
+**Features:**  
+- Fully responsive and interactive layout  
+- Accurate reproduction of design elements  
+- Focused on practicing CSS Grid, Flexbox, and React components  
+**Links:** [💻 Code](https://github.com/MostafaRaihan/FrontendMentor) | [🌐 Live Demo](https://raihanfrontendmentor.netlify.app/)
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github.com/MostafaRaihan/MostafaRaihan/blob/main/myprofile.png" alt="Mostafa Raihan"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafaraihan&show_icons=true&theme=radical&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=mostafaraihan&theme=radical&hide_border=false" height="165" />
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="mailto:mostafraihan.bd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=pop" /></a>
+  <a href="https://www.facebook.com/mostafaraihanbd"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&animation=pop" /></a>
+  <a href="https://mostafaraihan.netlify.app"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white&animation=pop" /></a>
+  <a href="https://www.linkedin.com/in/mostafaraihanbd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pop" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:ff00d5&height=120&section=footer" />
-</p>
-
-<p align="center">
-  💡 *Thanks for visiting! Let’s connect and create something amazing together!* 🚀  
+  💡 *Thanks for visiting! Let’s build amazing full-stack applications together!* 🚀
 </p>
