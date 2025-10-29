@@ -2,7 +2,7 @@
   <img src="https://github.com/MostafaRaihan/MostafaRaihan/blob/main/GitHubNEw.png?raw=true" alt="Mostafa Raihan GitHub Cover Banner" width="100%" />
 </p>
 
-# 👋 Hi, I'm Mostafa Raihan
+# <a href="https://mostafaraihan.github.io/MostafaRaihan/">👋 Hi, I'm Mostafa Raihan</a>
 
 **Full-Stack Web Developer | Python Django Backend & React/Next.js Frontend**  
 
