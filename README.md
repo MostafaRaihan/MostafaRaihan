@@ -12,9 +12,9 @@ I craft **modern, responsive, and secure web applications** with a focus on **fu
 
 ### 🛠 What I Do
 - 💻 **Full-Stack Development:** Modern web apps with clean, maintainable code  
-- 🛠 **Backend & APIs:** Django REST Framework, PostgreSQL, MySQL  
+- 🛠 **Backend & APIs:** Django REST Framework, PostgreSQL, MySQL, MongoDB
 - 🎨 **Frontend Magic:** React.js, Next.js, responsive designs, smooth animations  
-- 🚀 **Deployment & DevOps:** Vercel, Netlify, Docker  
+- 🚀 **Deployment & DevOps:** Vercel, Netlify 
 - 📚 **Always Learning:** GraphQL, Serverless architecture, Advanced REST APIs  
 
 ---
@@ -58,7 +58,7 @@ I craft **modern, responsive, and secure web applications** with a focus on **fu
     <td align="center"><img src="https://skillicons.dev/icons?i=django" width="100" alt="Django Icon"/><br>Django</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="100" alt="PostgreSQL Icon"/><br>PostgreSQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="100" alt="MySQL Icon"/><br>MySQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="100" alt="Docker Icon"/><br>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="100" alt="Docker Icon"/><br>MongoDB</td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="100" alt="Vercel Icon"/><br>Vercel</td>
