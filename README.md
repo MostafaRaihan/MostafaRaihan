@@ -12,9 +12,9 @@ I craft **modern, responsive, and secure web applications** with a focus on **fu
 
 ### 🛠 What I Do
 - 💻 **Full-Stack Development:** Modern web apps with clean, maintainable code  
-- 🛠 **Backend & APIs:** Django REST Framework, PostgreSQL, MySQL, MongoDB
+- 🛠 **Backend & APIs:** Django REST Framework, MySQL, MongoDB, Postman.
 - 🎨 **Frontend Magic:** React.js, Next.js, responsive designs, smooth animations  
-- 🚀 **Deployment & DevOps:** Vercel, Netlify 
+- 🚀 **Deployment:** Vercel, Netlify 
 - 📚 **Always Learning:** GraphQL, Serverless architecture, Advanced REST APIs  
 
 ---
@@ -56,9 +56,9 @@ I craft **modern, responsive, and secure web applications** with a focus on **fu
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="100" alt="Python Icon"/><br>Python</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=django" width="100" alt="Django Icon"/><br>Django</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="100" alt="PostgreSQL Icon"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="100" alt="MongoDB Icon"/><br>Mongodb</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="100" alt="MySQL Icon"/><br>MySQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="100" alt="Docker Icon"/><br>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="100" alt="Postman Icon"/><br>Postman</td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="100" alt="Vercel Icon"/><br>Vercel</td>
